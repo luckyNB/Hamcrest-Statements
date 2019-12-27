@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HarmcrestTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-12-27T04:06:49" hostname="FH400" time="0.026">
+  <properties/>
+  <testcase name="objectMatchersTest" classname="HarmcrestTest" time="0.026"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
